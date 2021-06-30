@@ -1,2 +1,4 @@
 # example_repo
-example repo to learn
+Hello world! this is a sample repo.
+
+This is a second change. 
